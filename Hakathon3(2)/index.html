@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MEDUSA movies</title>
+    <link rel="stylesheet" href="./style/style.css" />
+  </head>
+  <body>
+    <div class="reklama" id="test">
+      <a href="https://instagram.com/molveeeen?igshid=MzRlODBiNWFlZA=="
+        ><img
+          class="reklama_img"
+          src="https://medialeaks.ru/wp-content/uploads/2022/01/snimok-ekrana-2022-01-20-v-10.36.37-500x500.jpg"
+          alt=""
+      /></a>
+      <div>
+        <h2>Света, 47 (700м от вас)</h2>
+        <h2>+996 771 15 07 23</h2>
+      </div>
+    </div>
+    <div class="reklama2">
+      <a href="https://fakeupdate.net/win7/"
+        ><img
+          src="https://phonoteka.org/uploads/posts/2021-04/1619553956_14-phonoteka_org-p-belii-fon-bez-nichego-yarkii-15.jpg"
+          alt=""
+      /></a>
+    </div>
+    <div class="main_container">
+      <div class="navbar">
+        <div class="navbar_first">
+          <a class="brand__logo" href="../index.html">
+            <img
+              src="https://static.vecteezy.com/system/resources/thumbnails/018/876/250/small/hair-salon-logo-gold-png.png"
+              alt="logo"
+          /></a>
+        </div>
+
+        <div class="navbar_second">
+          <input
+            style="height: 80%; width: 250px"
+            id="search_box"
+            class="navbar_inp admin_panel_inp"
+            type="search"
+            placeholder="Search"
+            aria-label="Search"
+          />
+          <button class="navbar_btn" id="admin-panel-btn-show">Show</button>
+          <button class="navbar_btn" id="admin-panel-btn-hide">Hide</button>
+        </div>
+      </div>
+
+      <form class="head admin_panel">
+        <h2 class="admin_panel_text">Admin panel</h2>
+        <input placeholder="Name" type="text" class="inp1 admin_panel_inp" />
+        <input placeholder="Date" type="text" class="inp2 admin_panel_inp" />
+        <input placeholder="Stars" type="text" class="inp3 admin_panel_inp" />
+        <input
+          placeholder="URL of Image"
+          type="text"
+          class="inp4 admin_panel_inp"
+        />
+        <div class="category_list">
+          <input
+            class="inp5 admin_panel_inp"
+            placeholder="Movie or cartoon?"
+            type="text"
+          />
+          <!-- <select class="form-select" id="category">
+            <option value="cartoon" selected>Cartoon</option>
+            <option value="movie">Movie</option>
+          </select> -->
+        </div>
+        <button class="add admin_panel_button">Add</button>
+      </form>
+      <div class="category_container">
+        <div class="radio-inputs">
+          <label class="radio">
+            <input id="" type="radio" name="radio" checked="" />
+            <span class="name">All</span>
+          </label>
+          <label class="radio">
+            <input id="cartoon" type="radio" name="radio" />
+            <span class="name">Cartoon</span>
+          </label>
+
+          <label class="radio">
+            <input id="movie" type="radio" name="radio" />
+            <span class="name">Movie</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="container"></div>
+
+      <div class="modal" id="edit-modal">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button id="close-modal">X</button>
+            <h3 class="admin_panel_text">Edit Movie</h3>
+          </div>
+          <input
+            class="admin_panel_inp"
+            placeholder="Name"
+            type="text"
+            id="edit-input"
+          />
+          <br />
+          <input
+            class="admin_panel_inp"
+            placeholder="Date"
+            type="text"
+            id="edit-input2"
+          />
+          <br />
+          <input
+            class="admin_panel_inp"
+            placeholder="Stars"
+            type="number"
+            id="edit-input3"
+          />
+          <br />
+          <input
+            class="admin_panel_inp"
+            placeholder="URL of Image"
+            type="url"
+            id="edit-input4"
+          />
+          <br />
+          <div class="modal-footer">
+            <button class="cardBtns" id="edit-cancel">Cancel</button>
+            <button class="edit-submit cardBtns">Save</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- ? Pagination start -->
+      <nav aria-label="pagination" class="pagination">
+        <ul class="pagination_sub">
+          <li class="page-item prev">
+            <a class="page-link" href="#"
+              ><button class="pagination_buttons">Previous</button>
+            </a>
+          </li>
+
+          <li class="page-item next">
+            <a class="page-link" href="#">
+              <button class="pagination_buttons">Next</button>
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <!-- ? Pagination ends -->
+    </div>
+    <script src="./js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,156 @@
+{
+  "movies": [
+    {
+      "name": "Форсаж 10 ",
+      "date": "2023",
+      "stars": "3.5",
+      "image": "https://kinogo.biz/uploads/mini/minifull/0f0/1684490729-47676620.webp",
+      "id": 1,
+      "category": "movie"
+    },
+    {
+      "name": "Стражи Галактики. Часть 3",
+      "date": "2023",
+      "stars": "7.8",
+      "image": "https://kinogo.biz/uploads/mini/minifull/685/1681582195-1571492667.webp",
+      "id": 5,
+      "category": "movie"
+    },
+    {
+      "name": "Тайлер Рейк: Операция по спасению 2 ",
+      "date": "2023",
+      "stars": "6.9",
+      "image": "https://kinogo.biz/uploads/mini/minifull/726/1686934453-459464613.webp",
+      "id": 6,
+      "category": "movie"
+    },
+    {
+      "name": "Джон Уик 4",
+      "date": "2023",
+      "stars": "9.3",
+      "image": "https://kinogo.biz/uploads/mini/minifull/848/1665170820-277396920.webp",
+      "id": 7,
+      "category": "movie"
+    },
+    {
+      "name": "Человек-паук: Паутина вселенных",
+      "date": " 2023",
+      "stars": "9.8",
+      "image": "https://kinogo.biz/uploads/mini/minifull/4bf/1685729150-1840634406.webp",
+      "id": 8,
+      "category": "cartoon"
+    },
+    {
+      "name": "Флэш ",
+      "date": "2023",
+      "stars": "7.4",
+      "image": "https://kinogo.biz/uploads/mini/minifull/30c/1686935503-2070524548.webp",
+      "id": 10,
+      "category": "movie"
+    },
+    {
+      "name": "Нефариус",
+      "date": "2023",
+      "stars": "8.3",
+      "image": "https://kinogo.biz/uploads/mini/minifull/55c/1686851816_poster.webp",
+      "id": 11,
+      "category": "movie"
+    },
+    {
+      "name": "Русалочка ",
+      "date": "2023",
+      "stars": "5.7",
+      "image": "https://kinogo.biz/uploads/mini/minifull/966/1679731549-1701562719.webp",
+      "id": 15,
+      "category": "movie"
+    },
+    {
+      "name": "Иллюзия побега",
+      "date": "2023",
+      "stars": "5.6",
+      "image": "https://img-24x7.site/uploads/af/5121110.jpg",
+      "id": 16,
+      "category": "movie"
+    },
+    {
+      "name": "Экзорцист Ватикана",
+      "date": "2023",
+      "stars": "9.0",
+      "image": "https://img-24x7.site/uploads/bf/4458585.jpg",
+      "id": 17,
+      "category": "movie"
+    },
+    {
+      "name": "Элементарно",
+      "date": "2023",
+      "stars": "8.1",
+      "image": "https://kinogo.film/uploads/mini/short2/87/1687455860_elemental-2023.webp",
+      "id": 20,
+      "category": "cartoon"
+    },
+    {
+      "name": "Слишком милый кризис",
+      "date": "2023",
+      "stars": "9.0",
+      "image": "https://img-24x7.site/uploads/e1/5276611.jpg",
+      "id": 30,
+      "category": "cartoon"
+    },
+    {
+      "name": "Царевны и Таинственная гостья",
+      "date": "2023",
+      "stars": "5.9",
+      "image": "https://kinogo.biz/uploads/mini/minifull/20a/1682357378-1507245862.webp",
+      "id": 31,
+      "category": "cartoon"
+    },
+    {
+      "name": "Снежная королева: Разморозка",
+      "date": "2022",
+      "stars": "7.5",
+      "image": "https://kinogo.biz/uploads/mini/minifull/eeb/1677435473-1196939164.webp",
+      "id": 32,
+      "category": "cartoon"
+    },
+    {
+      "name": "Маша и Медведь в кино: 12 месяцев",
+      "date": "2022",
+      "stars": "8.5",
+      "image": "https://kinogo.biz/uploads/mini/minifull/5f1/1672519677-2110736676.webp",
+      "id": 33,
+      "category": "cartoon"
+    },
+    {
+      "name": "Чёрный список",
+      "date": "2013",
+      "stars": "7.5",
+      "image": "https://img-24x7.site/uploads/e1/741231.jpg",
+      "id": 22,
+      "category": "movie"
+    },
+    {
+      "name": "crew",
+      "date": "121212",
+      "stars": "8",
+      "image": "https://kinogo.biz/uploads/mini/minifull/e04/1683213244-1682973621.webp",
+      "category": "https://kinogo.biz/uploads/mini/minifull/e04/1683213244-1682973621.webp",
+      "id": 25
+    },
+    {
+      "name": "Чинк: Хвостатый детектив ",
+      "date": "2022",
+      "stars": "8.6",
+      "image": "https://kinogo.biz/uploads/mini/minifull/e30/1669235955-1249474783.webp",
+      "category": "cartoon",
+      "id": 34
+    },
+    {
+      "name": "Уроки французского ",
+      "date": "1978",
+      "stars": "6.5",
+      "image": "https://kinogo.biz/uploads/mini/minifull/7f9/1585833301-1108922501.webp",
+      "category": "movie",
+      "id": 35
+    }
+  ]
+}
